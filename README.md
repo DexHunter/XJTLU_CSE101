@@ -16,8 +16,6 @@ This is my solution to the assignments. Feel free to ask me anything. I found a 
 
 ...
 
-##Copyright
-
-MIT 3.0 
+##Reminder
 
 ####If you are a XJTLU student, please solve the problem by yourself, this is for reference purpose only. Cheers.
