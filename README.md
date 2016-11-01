@@ -1,4 +1,8 @@
-# XJTLU_CSE101
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![](https://img.shields.io/badge/language-c%2B%2B-blue.svg)]()
+
+
+
 
 ## Solution to several homework, done by Dex D. Hunter 2016
 
