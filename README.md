@@ -10,7 +10,7 @@ This is my solution to the assignments. Feel free to ask me anything. I found a 
 
 Update(20/01/2017):
 
-The final mark for both assignments of mine is 90. Altough I do not know they deduct my points, it is possible being caused by things I listsed below. Hope you all good luck on module CSE101.
+The final mark for both assignments of mine is 90. Altough I do not know why they deduct my points, it is possible being caused by things I listsed below. Hope you all good luck on module CSE101.
 
 ##Possible improvement:
 
